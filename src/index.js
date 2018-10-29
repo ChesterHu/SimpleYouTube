@@ -24,7 +24,7 @@ class App extends Component {
 	}
 
 	videoSearch(term) {
-		// IE6 syntax sugar if names of key and value are identical
+		// ES6 syntax sugar if names of key and value are identical
 		YTSearch({ key: API_KEY, term: term }, videos => {
 			this.setState({ 
 				videos: videos,

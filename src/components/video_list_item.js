@@ -1,6 +1,6 @@
 import React from 'react';
 
-// The argument is IE6 syntax, which is indentical to const video = props.video
+// The argument is ES6 syntax, which is indentical to const video = props.video
 const VideoListItem = ({video, onVideoSelect}) => {
 	const imgUrl = video.snippet.thumbnails.default.url;
 	const videoTitle = video.snippet.title;
