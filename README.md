@@ -1,13 +1,13 @@
-# ReduxSimpleStarter
+# SimpleYouTube Implementation
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+I'm currently interested in learning React and Redux. This is an implementation of YouTube page.
 
 ### Getting Started
 
 There are two methods for getting started with this repo.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+#### Start with git
+In the command line, type following code. Make sure the system already has git and npm
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
@@ -16,8 +16,8 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Down load the file
+Click [here](https://github.com/ChesterHu/SimpleYouTube) then download the .zip file.  Extract the contents of the zip file, then open the terminal, change to the project directory, and:
 
 ```
 > npm install
