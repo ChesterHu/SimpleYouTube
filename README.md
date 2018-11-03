@@ -11,7 +11,7 @@ In the command line, type following code. Make sure the system already has git a
 
 ```
 > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> cd SimpleYouTube
 > npm install
 > npm start
 ```
