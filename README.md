@@ -10,8 +10,8 @@ There are two methods for getting started with this repo.
 In the command line, type following code. Make sure the system already has git and npm
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> https://github.com/ChesterHu/SimpleYouTube.git
+> cd SimpleYouTube
 > npm install
 > npm start
 ```
